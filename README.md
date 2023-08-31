@@ -1,4 +1,5 @@
 # Live777
+This work has been collaboratively conducted by the Guangzhou Institute and Xidian University. The co-authors are Prof. Qinghai Yang, Dr. G.C Niu, Wen Yang.
 
 A very simple, high performance, support WHIP/WHEP edge WebRTC SFU (Selective Forwarding Unit)
 
